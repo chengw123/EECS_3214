@@ -34,11 +34,13 @@
 - 	TCP/IP
 	- 	encapsulation
 	-	addressing
-		-	port number ( access point number aka SAP)
+		-	port number ( service access point  aka SAP)
 	-	MAC address
 		-	medium access control
 	-	NIC address
 		-	network interface card
+	-	NAP
+		-	Network access protocol 
 -	Ip addresses
 	-	each host is identified by Ip
 	-	2 parts:
@@ -47,12 +49,7 @@
 	-	Ip address identifies the host interface rather than the host itself
 		-	ex: one router as a host has several ip addresses
 -	physical addresses
+	-	the attachment of a device to the network is identified by physical address
+	-	its format depends on the particular type of network
+	-	ex: Ethernet has 48-bit addresses
 	-	
-
-
-
-
-
-
-
-
