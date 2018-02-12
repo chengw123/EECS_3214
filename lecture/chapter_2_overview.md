@@ -217,7 +217,7 @@ else
 	-	maintained by organization
 -	local DNS server
 	-	not in the hierarchy
-	-	each ISP has one
+		-	each ISP has one
 		-	default DNS 
 -	when host makes DNS query, query is sent to its DNS server
 
@@ -255,10 +255,19 @@ else
 # P2P applications
 
 ## Pure P2P architecture
+-	ex: 
+	-	file distribution (BitTorrent)
+	-	streaming (Xunlei kankan)
+	-	VoIP (skype)
 
-
-
-
+## P2P file distribution: BitTorrent
+-	tracker:
+	-	tracks peers participating in torrent
+-	torrent:
+	-	groups of users exchanging chunks of a file
+-	peers joining torrent:
+	-	has no chunks, but will accumulate over time
+	-	registers with tracker to get list of peers, connects to subset of peers
 
 
 
