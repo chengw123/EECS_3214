@@ -62,8 +62,8 @@
 	-	less reliable than TCP, but faster
 -	Securing TCP
 	-	TCP & UDP
-		-	no encryption
-		-	cleartext sent into socket
+		-	no encryption if using UDP
+		-	cleartext sent into socket if using UDP
 	-	SSL(transport layer securiy)
 		-	encrypted TCP connection
 		-	data integrity
