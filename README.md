@@ -14,3 +14,5 @@
   - [book](https://github.com/harrydaihaolin/EECS_3214/tree/master/book)
     - [chapter 1](https://github.com/harrydaihaolin/EECS_3214/blob/master/book/chapter_1.md)
     - [chapter 2](https://github.com/harrydaihaolin/EECS_3214/blob/master/book/chapter_2.md)
+    - [chapter 4](https://github.com/harrydaihaolin/EECS_3214/blob/master/book/chapter_4.md)
+
